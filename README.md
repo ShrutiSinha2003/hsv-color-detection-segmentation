@@ -1,2 +1,13 @@
-# hsv-color-detection-segmentation
-Real-time HSV based color detection and image segmentation using OpenCV.
+# HSV Color Detection and Segmentation
+
+## Features
+- Real-time HSV threshold tuning
+- Color masking using OpenCV
+- Live webcam segmentation
+- Save segmented outputs
+
+## Technologies
+Python, OpenCV, NumPy
+
+## Output
+See uploaded segmentation images and mask results in this repository.
